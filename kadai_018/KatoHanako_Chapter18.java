@@ -9,9 +9,4 @@ public class KatoHanako_Chapter18 extends Kato_Chapter18 {
 		System.out.println("趣味は読書です");
 	}
 
-	public void execIntroduce() {
-		System.out.println("名前は" + familyName + givenName + "です");
-		commonIntroduce();
-		eachIntroduce();
-	}
 }

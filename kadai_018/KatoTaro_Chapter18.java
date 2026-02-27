@@ -9,9 +9,4 @@ public class KatoTaro_Chapter18 extends Kato_Chapter18 {
 		System.out.println("私はJavaが得意です");
 	}
 
-	public void execIntroduce() {
-		System.out.println("名前は" + familyName + givenName + "です");
-		commonIntroduce();
-		eachIntroduce();
-	}
 }
